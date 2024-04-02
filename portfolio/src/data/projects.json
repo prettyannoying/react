@@ -1,0 +1,37 @@
+[
+  {
+    "title": "React Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Built a react portfolio to revise the framework :)",
+    "skills": [
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/prettyannoying"
+  },
+  {
+    "title": "Parallel Particle Swarm Optimization",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented a machine learning algorithm called Particle Swarm Optimization and parallelized it on GPU using CUDA programming as part of BTP internship",
+    "skills": [
+      "CUDA",
+      "C++",
+      "Linux"
+    ],
+    "source": "https://www.github.com/prettyannoying"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
