@@ -16,14 +16,14 @@ export const About = () => {
                         <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon"/>
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
-                            <p>I'm a frontend developer</p>
+                            <p>Worked on React, NodeJs and Javascript</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")} alt="Server icon"/>
                         <div className={styles.aboutItemText}>
                             <h3>Fullstack Developer</h3>
-                            <p>Expert at everything</p>
+                            <p>Worked with Java, Javascript & Servicenow</p>
                         </div>
                     </li>
                 </ul>
